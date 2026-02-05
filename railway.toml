@@ -1,0 +1,5 @@
+[build]
+builder = "NIXPACKS"
+
+[env]
+PHP_EXTENSIONS = "pdo_pgsql"
